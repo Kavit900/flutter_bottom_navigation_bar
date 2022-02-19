@@ -2,10 +2,11 @@
 
 Repository contains Google Bottom Navigation Bar functionality implemented in Flutter
 
-Youtube Link
+# Youtube Link
 https://www.youtube.com/watch?v=Z7JOFQJJx2E
 
-About Me
+# About Me
+
 Hi Folks! I am Kavit, a software engineer with a passion for teaching.
 
 Please follow me and show your support, so that I can keep bringing this type of content.
